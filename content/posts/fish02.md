@@ -5,7 +5,7 @@ subtitle: "Home Cooking"
 author: "michtintin"
 draft: false
 tags: ["Fish: Spanish Mackerel - Scomberomorus maculatus"]
-categories: ["Fish no narration"]
+categories: ["Fish"]
 ---
 
 

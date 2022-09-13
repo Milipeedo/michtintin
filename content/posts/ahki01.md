@@ -1,5 +1,5 @@
 ---
-title: "Ah ki : A day in my life as a dog."
+title: "Ah ki-1 : A day in my life as a dog."
 date: 2018-05-08T11:02:17+08:00
 subtitle: Ah ki's life"
 author: "michtintin"
