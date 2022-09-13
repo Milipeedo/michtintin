@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Dwg: Align &amp; scale - Tag - Michele&#39;s Virtual Pocket - Copyright (c) 2018 All Rights Reserved.</title>
+        <link>http://michtintin.com/tags/dwg-align-scale/</link>
+        <description>Dwg: Align &amp; scale - Tag - Michele&#39;s Virtual Pocket - Copyright (c) 2018 All Rights Reserved.</description>
+        <generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 27 Dec 2017 11:02:17 &#43;0800</lastBuildDate><atom:link href="http://michtintin.com/tags/dwg-align-scale/" rel="self" type="application/rss+xml" /><item>
+    <title>Autocad-1 : Align &amp; Scale Shortcut using coordinates for accuracy.</title>
+    <link>http://michtintin.com/posts/autocad01/</link>
+    <pubDate>Wed, 27 Dec 2017 11:02:17 &#43;0800</pubDate>
+    <author>michtintin</author>
+    <guid>http://michtintin.com/posts/autocad01/</guid>
+    <description><![CDATA[Align &amp; Scale Shortcut using coordinates for accuracy. 00:00-00:09 Introduction Hello, everyone. This video is about how to Scale and Align your drawing if you
+only have two coordinates.
+00:10-00:16 Check default units. Check that the units are all in millimetres, or type
+&ldquo;UNITS&rdquo;, spacebar.
+00:17-00:27 Attach reference image plan. Bring in the drawing with Reference Manager, &ldquo;REF&rdquo; spacebar.
+and then click attach and select your drawing.
+Check that the unit is in millimetres and then click OK]]></description>
+</item>
+</channel>
+</rss>

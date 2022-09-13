@@ -181,7 +181,7 @@
       title = ""
       # subtitle shown in home page (HTML format is supported)
       # 主页显示的网站副标题 (允许 HTML 格式)
-      subtitle = "Well, go ahead......pick one !"
+      subtitle = ""
       # whether to use typeit animation for subtitle
       # 是否为副标题显示打字机动画
       typeit = true
@@ -211,7 +211,7 @@
     Gitlab = ""
     Youtubelegacy = ""
     Youtubecustom = ""
-    Youtubechannel = "https://www.youtube.com/channel/UCSG_TzyjleEQos35QPlaOzw"
+    Youtubechannel = ""
     Tumblr = ""
     Quora = ""
     Keybase = ""
@@ -289,6 +289,7 @@
     # whether to enable twemoji
     # 是否使用 twemoji
     twemoji = false
+   
     # whether to enable lightgallery
     # 是否使用 lightgallery
     lightgallery = false
@@ -375,21 +376,21 @@
     [params.page.share]
       enable = true
       Twitter = true
-      Facebook = true
+      Facebook = false
       Linkedin = false
       Whatsapp = false
       Pinterest = false
       Tumblr = false
-      HackerNews = true
+      HackerNews = false
       Reddit = false
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
       Pocket = false
       Flipboard = false
-      Weibo = true
+      Weibo = false
       Blogger = false
       Baidu = false
       Odnoklassniki = false

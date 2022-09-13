@@ -1,14 +1,62 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>Categories - Category - Michele&#39;s Virtual Pocket - Copyright (c) 2018 Copyright Holder All Rights Reserved.</title>
+        <title>Categories - Category - Michele&#39;s Virtual Pocket - Copyright (c) 2018 All Rights Reserved.</title>
         <link>http://michtintin.com/categories/</link>
-        <description>Categories - Category - Michele&#39;s Virtual Pocket - Copyright (c) 2018 Copyright Holder All Rights Reserved.</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 29 Nov 2017 11:59:24 &#43;0800</lastBuildDate><atom:link href="http://michtintin.com/categories/" rel="self" type="application/rss+xml" /><item>
-    <title>Fish</title>
-    <link>http://michtintin.com/categories/fish/</link>
+        <description>Categories - Category - Michele&#39;s Virtual Pocket - Copyright (c) 2018 All Rights Reserved.</description>
+        <generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 15 Aug 2018 11:02:17 &#43;0800</lastBuildDate><atom:link href="http://michtintin.com/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Photoshop</title>
+    <link>http://michtintin.com/categories/photoshop/</link>
+    <pubDate>Wed, 15 Aug 2018 11:02:17 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://michtintin.com/categories/photoshop/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>A dog&#39;s life</title>
+    <link>http://michtintin.com/categories/a-dogs-life/</link>
+    <pubDate>Tue, 08 May 2018 11:02:17 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://michtintin.com/categories/a-dogs-life/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Autocad</title>
+    <link>http://michtintin.com/categories/autocad/</link>
+    <pubDate>Wed, 25 Apr 2018 11:02:17 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://michtintin.com/categories/autocad/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Bread</title>
+    <link>http://michtintin.com/categories/bread/</link>
+    <pubDate>Mon, 23 Apr 2018 14:59:43 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://michtintin.com/categories/bread/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Fish no narration</title>
+    <link>http://michtintin.com/categories/fish-no-narration/</link>
+    <pubDate>Mon, 23 Apr 2018 11:59:24 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://michtintin.com/categories/fish-no-narration/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Illustrator</title>
+    <link>http://michtintin.com/categories/illustrator/</link>
+    <pubDate>Mon, 22 Jan 2018 11:02:17 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>http://michtintin.com/categories/illustrator/</guid>
+    <description><![CDATA[]]></description>
+</item>
+<item>
+    <title>Fish with narration</title>
+    <link>http://michtintin.com/categories/fish-with-narration/</link>
     <pubDate>Wed, 29 Nov 2017 11:59:24 &#43;0800</pubDate>
     <author>Author</author>
-    <guid>http://michtintin.com/categories/fish/</guid>
+    <guid>http://michtintin.com/categories/fish-with-narration/</guid>
     <description><![CDATA[]]></description>
 </item>
 </channel>

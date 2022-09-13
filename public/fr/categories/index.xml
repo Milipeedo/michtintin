@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Catégorie - Mon nouveau site Hugo</title>
+        <link>http://michtintin.com/fr/categories/</link>
+        <description>Categories - Catégorie - Mon nouveau site Hugo</description>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 29 Nov 2017 11:59:24 &#43;0800</lastBuildDate><atom:link href="http://michtintin.com/fr/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Fish</title>
+    <link>http://michtintin.com/fr/categories/fish/</link>
+    <pubDate>Wed, 29 Nov 2017 11:59:24 &#43;0800</pubDate>
+    <author>Auteur</author>
+    <guid>http://michtintin.com/fr/categories/fish/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

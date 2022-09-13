@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tags - Balise - Mon nouveau site Hugo</title>
+        <link>http://michtintin.com/fr/tags/</link>
+        <description>Tags - Balise - Mon nouveau site Hugo</description>
+        <generator>Hugo -- gohugo.io</generator><language>fr</language><lastBuildDate>Wed, 29 Nov 2017 11:59:24 &#43;0800</lastBuildDate><atom:link href="http://michtintin.com/fr/tags/" rel="self" type="application/rss+xml" /><item>
+    <title>Spanish Mackerel - Scomberomorus maculatus</title>
+    <link>http://michtintin.com/fr/tags/spanish-mackerel-scomberomorus-maculatus/</link>
+    <pubDate>Wed, 29 Nov 2017 11:59:24 &#43;0800</pubDate>
+    <author>Auteur</author>
+    <guid>http://michtintin.com/fr/tags/spanish-mackerel-scomberomorus-maculatus/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
