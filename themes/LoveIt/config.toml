@@ -289,7 +289,7 @@
     # whether to enable twemoji
     # 是否使用 twemoji
     twemoji = false
-   
+
     # whether to enable lightgallery
     # 是否使用 lightgallery
     lightgallery = false
@@ -567,7 +567,7 @@
     enable = false
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "G-KZHL39HFK7"
       # whether to anonymize IP
       # 是否匿名化用户 IP
       anonymizeIP = true
@@ -582,7 +582,7 @@
       dataDomain = ""
     # Yandex Metrica
     [params.analytics.yandexMetrica]
-      id = ""
+      id = "1384391f-972f-4d4f-92a0-95464d9d27cd"
 
   # Cookie consent config
   # Cookie 许可配置

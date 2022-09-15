@@ -1,13 +1,13 @@
 ---
-title: "Ah ki-1 : A day in my life as a dog."
+title: "Home video - 1 : A day in my life as a dog."
 date: 2018-05-08T11:02:17+08:00
 subtitle: Ah ki's life"
 author: "michtintin"
 draft: false
-tags: ["Ah ki's life"]
-categories: ["A dog's life"]
+tags: ["HV: Ah ki's life"]
+categories: ["Home video"]
 ---
-# A Dog's life....it can be tiring sometimes.
+# Home video-1 : A Dog's life....it can be tiring sometimes.
 
 {{< youtube 7Fv4KFOwBsA>}}
 

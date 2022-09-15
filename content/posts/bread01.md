@@ -5,5 +5,5 @@ subtitle: "Bread making"
 author: "michtintin"
 draft: false
 tags: ["No knead French baguette"]
-categories: ["Bread"]
+categories: ["Baking"]
 ---
